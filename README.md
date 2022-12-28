@@ -12,4 +12,4 @@ Source code bao gồm 3 file:
 Báo cáo bài báo gồm 3 phần:
 1. Poster về bài báo
 2. Phân tích chi tiết về thuật toán và code (demo + ứng dụng)
-3. ứng dụng của hằng số Euler và quá trình phát triển trong việc xác định hằng số Euler (về số lượng chữ số thập phân xác định được và độ chính xác).
+3. Phân tích ứng dụng của hằng số Euler (trong toán học + thực tiễn) và quá trình phát triển trong việc xác định hằng số Euler (về số lượng chữ số thập phân xác định được và độ chính xác).
