@@ -8,6 +8,7 @@ Source code bao gồm 3 file:
 - eulerConstant.c : chương trình xác định hằng số Euler
 - partialQuotient.c: chương trình xác định các thương số từng phần để biểu diễn xấp xỉ hữu tỉ cho hằng số Euler
 - Application_partialQuotient.c: Chương trình khôi phục số hữu tỉ từ số vô tỉ ứng dụng thuật toán xác định thương số từng phần
+
 Báo cáo bài báo gồm 3 phần:
 1. Poster về bài báo
 2. Phân tích chi tiết về thuật toán và code (demo + ứng dụng)
